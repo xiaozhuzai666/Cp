@@ -3,4 +3,4 @@ project(Cp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Cp main.cpp)
+add_executable(Cp main.cpp game.cpp)
